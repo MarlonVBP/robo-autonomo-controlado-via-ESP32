@@ -125,6 +125,8 @@ O diagrama elétrico mostra as conexões entre o ESP32, os drivers ULN2003 e os 
      - "Motor 2 - Anti-horário" 🔄: Gira o Motor 2 no sentido anti-horário.
    - **Parar/Continuar** 🚨: Interrompe os motores (botão vermelho). Clique novamente para permitir novos movimentos.
 
+**Demonstração**: [Ver projeto funcionando](https://drive.google.com/drive/folders/1jOgkgk4FSGpnHgiT6VVB07rt5ikYxggG)
+
 ## 🌟 Possíveis Melhorias
 
 - Adicionar sensores (ex.: ultrassom para detecção de obstáculos) 📡.
