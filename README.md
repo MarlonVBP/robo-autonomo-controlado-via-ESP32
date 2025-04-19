@@ -137,4 +137,4 @@ Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usar, 
 
 ---
 
-Feito com 💡 por Marlon Victor Bezerra dos Passos. 🚀
+Feito por Marlon Victor Bezerra dos Passos. 🚀
